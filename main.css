@@ -1,0 +1,15 @@
+.bold {
+    font-weight: bold;
+}
+
+#copyright {
+    font-size: 80%;
+}
+
+.fix {
+    width: 40%;
+}
+
+h1 {
+    text-decoration: underline;
+}
