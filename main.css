@@ -8,9 +8,9 @@
 
 .fix {
     border: solid purple;
-    padding: 1%; 
-    margin: 0;
-    width: 20%;
+    padding: 1em; 
+    margin: .5em;
+    width: 350px;
 }
 
 h1 {
